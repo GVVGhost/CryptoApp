@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">First Kotlin</string>
+    <string name="symbols_template">%s / %s</string>
+    <string name="last_update_template">Last update time: %s</string>
+    <string name="det_info_slash">/</string>
+    <string name="det_info_text_price">Price:</string>
+    <string name="det_info_text_high_day">Highest day price:</string>
+    <string name="det_info_text_low_day">Lowest day price</string>
+    <string name="det_info_text_last_volume_to">The last dial:</string>
+    <string name="det_info_last_update">Last update:</string>
+</resources>
