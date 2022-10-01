@@ -8,4 +8,5 @@
     <string name="det_info_text_low_day">Lowest day price</string>
     <string name="det_info_text_last_volume_to">The last dial:</string>
     <string name="det_info_last_update">Last update:</string>
+    <string name="det_info_content_description_crypto_coin_image">Crypto coin image</string>
 </resources>
